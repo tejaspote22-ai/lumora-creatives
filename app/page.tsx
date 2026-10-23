@@ -126,7 +126,7 @@ export default function Home() {
             CREATIVE DIGITAL AGENCY
           </p>
 
-          <h1 className="max-w-5xl text-5xl font-bold leading-tight sm:text-6xl md:text-8xl">
+          <h1 className="max-w-5xl animate-pulse text-5xl font-bold leading-tight sm:text-6xl md:text-8xl">
             We turn ideas into{" "}
             <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-orange-300 bg-clip-text text-transparent">
               powerful brands.
@@ -142,7 +142,7 @@ export default function Home() {
           <div className="mt-10 flex flex-wrap justify-center gap-4">
             <a
               href="#contact"
-              className="rounded-full bg-white px-7 py-4 font-semibold text-black"
+              className="rounded-full bg-white px-7 py-4 font-semibold text-black transition duration-300 hover:scale-105 hover:bg-gray-200"
             >
               Start a Project →
             </a>
