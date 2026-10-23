@@ -284,12 +284,14 @@ export default function Home() {
             Let's make it real.
           </h2>
 
-          <a
-            href="mailto:hello@lumoracreatives.com"
-            className="mt-10 inline-block rounded-full bg-white px-8 py-4 font-semibold text-black"
-          >
-            Start a Conversation →
-          </a>
+            <a
+  href="https://wa.me/918857072103?text=Hi%20Lumora%20Creatives%2C%20I%20would%20like%20to%20discuss%20a%20project."
+  target="_blank"
+  rel="noopener noreferrer"
+  className="mt-10 inline-block rounded-full bg-white px-8 py-4 font-semibold text-black"
+>
+  Start a Conversation →
+</a>
         </div>
       </section>
 
